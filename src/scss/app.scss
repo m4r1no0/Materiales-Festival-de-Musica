@@ -1,0 +1,15 @@
+@use 'base/variables' as v;
+
+
+body {
+    
+    font-family:v.$fuente_principal;
+    font-weight: 400;
+    font-style: normal;
+    color: v.$rosa;
+}
+
+h1{
+    font-family: v.$fuente_principal;
+    color:v.$rosa;
+}
